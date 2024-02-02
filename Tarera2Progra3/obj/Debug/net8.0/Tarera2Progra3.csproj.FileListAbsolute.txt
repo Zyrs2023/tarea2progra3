@@ -1,0 +1,14 @@
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\bin\Debug\net8.0\Tarera2Progra3.exe
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\bin\Debug\net8.0\Tarera2Progra3.deps.json
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\bin\Debug\net8.0\Tarera2Progra3.runtimeconfig.json
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\bin\Debug\net8.0\Tarera2Progra3.dll
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\bin\Debug\net8.0\Tarera2Progra3.pdb
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.AssemblyInfoInputs.cache
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.AssemblyInfo.cs
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.csproj.CoreCompileInputs.cache
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.dll
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\refint\Tarera2Progra3.dll
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.pdb
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\Tarera2Progra3.genruntimeconfig.cache
+C:\Users\scamacho\source\repos\Tarera2Progra3\Tarera2Progra3\obj\Debug\net8.0\ref\Tarera2Progra3.dll
